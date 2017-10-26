@@ -42,3 +42,7 @@ Example:
 ```bash
 docker run -v $HOME/github/samza:/samza -it ubuntu/jdk8:latest /bin/bash
 ```
+
+### References
+
+https://github.com/oracle/docker-images/tree/master/OracleJava/
